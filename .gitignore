@@ -1,6 +1,6 @@
 # Byte-code files
 *.pyc
-/__pycache__/
+__pycache__/
 
 # IDE-specific files
 .idea/
