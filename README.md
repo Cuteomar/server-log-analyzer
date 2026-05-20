@@ -46,7 +46,7 @@ The Sentinel Log Analyzer automates the detection of common web attacks by scann
 ### Batch Analysis
 Scan an existing log file and export a security report:
 ```bash
-python analyzer.py --input access.log --output reports/audit.csv
+python analyzer.py --input samples/access.log --output reports/audit.csv
 ```
 
 ### Real-Time Monitoring

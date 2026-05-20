@@ -1,0 +1,21 @@
+# Byte-code files
+*.pyc
+__pycache__/
+
+# IDE-specific files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Virtual environment
+.venv/
+env/
+
+# Generated reports (optional, if you want to keep them local)
+reports/*.csv
+reports/*.json
+
+# Operating System Files
+.DS_Store
+Thumbs.db
